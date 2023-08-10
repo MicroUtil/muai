@@ -1,6 +1,6 @@
 # MU-AI
 
-[English](./README.md)
+[English](../README.md)
 [Bahasa Indonesia](./README-id-ID.md)
 [中文(简体)](./README-zh-CN.md)
 [中文(繁體)](./README-zh-HK.md)

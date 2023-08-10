@@ -1,15 +1,15 @@
 # MU-AI
 
-[Bahasa Indonesia](./README-id-ID.md)
-[中文(简体)](./README-zh-CN.md)
-[中文(繁體)](./README-zh-HK.md)
-[Français](./README-fr-FR.md)
-[हिन्दी](./README-hi-IN.md)
-[한국어](./README-ko-KR.md)
-[日本語](./README-ja-JP.md)
-[Português](./README-pt-PT.md)
-[Русский](./README-ru-RU.md)
-[Español](./README-es-ES.md)
+[Bahasa Indonesia](./docs/README-id-ID.md)
+[中文(简体)](./docs/README-zh-CN.md)
+[中文(繁體)](./docs/README-zh-HK.md)
+[Français](./docs/README-fr-FR.md)
+[हिन्दी](./docs/README-hi-IN.md)
+[한국어](./docs/README-ko-KR.md)
+[日本語](./docs/README-ja-JP.md)
+[Português](./docs/README-pt-PT.md)
+[Русский](./docs/README-ru-RU.md)
+[Español](./docs/README-es-ES.md)
 
 Download Link: [Windows](https://raw.githubusercontent.com/MicroUtil/muai/main/bin/MU-AI_0.1.0_x64-GH.msi.zip),
 [macOS](https://raw.githubusercontent.com/MicroUtil/muai/main/bin/MU-AI_0.1.0_x64-GH.dmg)

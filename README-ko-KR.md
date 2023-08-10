@@ -14,6 +14,8 @@
 Download Link: [Windows](https://raw.githubusercontent.com/MicroUtil/muai/main/bin/MU-AI_0.1.0_x64-GH.msi.zip),
 [macOS](https://raw.githubusercontent.com/MicroUtil/muai/main/bin/MU-AI_0.1.0_x64-GH.dmg)
 
+MU-AI는 다양한 AI 모델이나 문서나 어시스턴트와 재미있고 유용한 대화를 할 수 있는 지능형 대화 소프트웨어입니다
+
 ## 1. 여러 AI 모델과 채팅하기. 사용자는 ChatGPT 또는 Bing과 같은 다양한 AI 모델을 선택할 수 있습니다. Bing을 사용하면 이미지 채팅을 지원합니다. 싱글 채팅 모드로 전환하여 Token 사용량을 절약할 수 있습니다. 앞으로 더 많은 AI 모델을 지원할 예정이며, 사용자에게 더 많은 선택과 경험을 제공합니다.
 
 ![](https://raw.githubusercontent.com/MicroUtil/muai/main/web/images/dark/1-1.jpg)

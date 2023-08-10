@@ -14,6 +14,8 @@
 Download Link: [Windows](https://raw.githubusercontent.com/MicroUtil/muai/main/bin/MU-AI_0.1.0_x64-GH.msi.zip),
 [macOS](https://raw.githubusercontent.com/MicroUtil/muai/main/bin/MU-AI_0.1.0_x64-GH.dmg)
 
+MU-AI adalah perangkat lunak dialog cerdas yang memungkinkan Anda berdialog menarik dan berguna dengan berbagai model AI, dokumen, asisten
+
 ## 1. Ngobrol dengan beberapa model AI. Pengguna dapat memilih model AI yang berbeda, seperti ChatGPT atau Bing; dukungan obrolan gambar saat menggunakan Bing; beralih ke mode obrolan tunggal, hemat penggunaan Token; di masa depan, kami juga akan mendukung lebih banyak model AI, memberikan pengguna lebih banyak pilihan dan pengalaman.
 
 ![](https://raw.githubusercontent.com/MicroUtil/muai/main/web/images/dark/1-1.jpg)

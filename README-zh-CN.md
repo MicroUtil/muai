@@ -14,6 +14,8 @@
 Download Link: [Windows](https://raw.githubusercontent.com/MicroUtil/muai/main/bin/MU-AI_0.1.0_x64-GH.msi.zip),
 [macOS](https://raw.githubusercontent.com/MicroUtil/muai/main/bin/MU-AI_0.1.0_x64-GH.dmg)
 
+MU-AI是一款智能对话软件，让你可以与不同的AI模型、文档、助手进行有趣和有用的交流
+
 ## 1. 与多个AI模型对话. 用户可以选择不同的AI模型，如 ChatGPT 或 Bing；使用Bing时支持与图片对话；切换单次对话模式，节省 Token 使用；将来我们还会支持更多的AI模型，让用户有更多的选择和体验。
 
 ![](https://raw.githubusercontent.com/MicroUtil/muai/main/web/images/dark/1-1.jpg)

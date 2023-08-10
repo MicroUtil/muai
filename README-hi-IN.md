@@ -14,6 +14,8 @@
 Download Link: [Windows](https://raw.githubusercontent.com/MicroUtil/muai/main/bin/MU-AI_0.1.0_x64-GH.msi.zip),
 [macOS](https://raw.githubusercontent.com/MicroUtil/muai/main/bin/MU-AI_0.1.0_x64-GH.dmg)
 
+MU-AI एक बुद्धिमान चर्चा सॉफ़्टवेयर है, जो आपको विभिन्न AI मॉडल, दस्तावेज़, सहायक के साथ मजेदार और उपयोगी संवाद करने की अनुमति देता है
+
 ## 1. एकाधिक AI मॉडलसंग चर्चा गर्नुहोस्. उपयोगकर्ताले विभिन्न AI मा छान्न सक्छन्, जस्तै ChatGPT वा Bing; Bing को प्रयोगका समय तस्वीरसंग चर्चा समर्थन गर्छ; एकदिनका भरमा चर्चा मोड परिवर्तन गर्ने, टोकन प्रयोगको बचत गर्नुहोस्; भविष्यमा हामी अझै धेरै AI मॉडल समर्थन गर्नेछौं, जसले प्रयोगकर्तालाई अझै धेरै छान्न र अनुभव दिने अवस्था बनाउँछ।
 
 ![](https://raw.githubusercontent.com/MicroUtil/muai/main/web/images/dark/1-1.jpg)

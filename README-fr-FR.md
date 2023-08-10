@@ -14,6 +14,8 @@
 Download Link: [Windows](https://raw.githubusercontent.com/MicroUtil/muai/main/bin/MU-AI_0.1.0_x64-GH.msi.zip),
 [macOS](https://raw.githubusercontent.com/MicroUtil/muai/main/bin/MU-AI_0.1.0_x64-GH.dmg)
 
+MU-AI est un logiciel de conversation intelligente qui vous permet d'interagir avec différents modèles d'IA, documents et assistants de manière amusante et utile
+
 ## 1. Discutez avec plusieurs modèles d'IA. Les utilisateurs peuvent choisir différents modèles d'IA, tels que ChatGPT ou Bing ; support du chat d'images lors de l'utilisation de Bing ; passer en mode chat unique, économiser l'utilisation du Token ; à l'avenir, nous prendrons également en charge davantage de modèles d'IA, offrant aux utilisateurs plus de choix et d'expériences.
 
 ![](https://raw.githubusercontent.com/MicroUtil/muai/main/web/images/dark/1-1.jpg)
